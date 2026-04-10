@@ -1,1 +1,1 @@
-# StrukturData-Q1-2501010009-WilsaDwiAmeliaH-A-IF
+# 1. Karakteristik Memori dan Akses Data
